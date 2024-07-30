@@ -33,3 +33,58 @@ Let's talk about personal stuff!
 🌟 Main languages: Java, Python, C#.
 🚩 Interested in Full Stack Development.
 </pre>
+
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Languages and Tools-->
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">
+  Languages and Tools
+</h3>
+
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Icons-->       
+<p align="center">
+<img width="300px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,cs,arduino,dart,firebase,flutter,git,github,mysql,postgres,unity&perline=5"  />
+</p>
+
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Languages and Tools-->
+<h3 align="center">
+  Connect with me! 🔗
+</h3>
+
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--LinkedIn Icon-->
+<p align="center">
+<a href="https://www.linkedin.com/in/whiterbb/" target="_blank">
+  <img align="center" alt="Marco Salazar | Linkedin" width="50px" src="https://skillicons.dev/icons?i=linkedin" />
+</a> &nbsp;&nbsp;
+  
+<!--Gmail Icon-->
+<a href="mailto:marcoasc98@gmail.com" target="_blank">
+  <img align="center" alt="Marco Salazar | Gmail" width="50px" src="https://skillicons.dev/icons?i=gmail" />
+</a> &nbsp;&nbsp;
+
+<!--Instagram Icon-->
+<a href="https://www.instagram.com/marcoasc98/" target="_blank">
+  <img align="center" alt="Marco Salazar | Instagram" width="50px" src="https://skillicons.dev/icons?i=instagram" />
+</a> &nbsp;&nbsp;
+</p>
+
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Snake-->
+<h3 align="left">
+  🐍 Hungry snake 🐍
+</h3>
+
+![Snake animation](https://raw.githubusercontent.com/WhiterBB/WhiterBB/output/github-contribution-grid-snake-dark.svg)
