@@ -24,7 +24,7 @@ Let's talk about personal stuff!
 </h3>
 
 <pre>
-👋 As you know, my name is Marco Salazar | WhiterBB. Hey, I almost forget to tell you that I am from Ecuador 🇪🇨.
+👋 As you know, my name is Marco Salazar | WhiterBB. Hey, I almost forgot to tell you that I am from Ecuador 🇪🇨.
 💻 I am a Full Stack Developer | Enthuastic about Artificial Intelligence.
 🤖 I have a Bachelors in Computer Science.
 ❤️ There are so many things that I love: Learn new things, play videogames, nature, night sky, technology. If I think deeply I love everything. I love to live. 
