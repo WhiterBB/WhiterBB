@@ -18,11 +18,13 @@
 Let's talk about personal stuff!
 </h3>
 
+<pre>
 * 🤖 **AI Engineer** & **Full Stack Developer** based in **Ecuador** 🇪🇨.
 * 🎓 **B.S. in Computer Science | Master's Degree in Artificial Intelligence** | Passionate about **Machine Learning** and **Backend Architectures**.
 * 🚀 Currently building scalable **SaaS solutions** 
 * 🛠️ Strong focus on **Python**, **Java**, and **C#** for robust system development.
 * 🌌 I love exploring the **night sky**, nature, and gaming while learning something new every day.
+</pre>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
