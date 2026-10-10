@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇ey, &lt;coders/&gt;!
+  𝐇ey, &lt;/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
